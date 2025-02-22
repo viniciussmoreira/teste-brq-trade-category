@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\bin\Debug\net8.0\BrqTestVms.exe
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\bin\Debug\net8.0\BrqTestVms.deps.json
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\bin\Debug\net8.0\BrqTestVms.runtimeconfig.json
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\bin\Debug\net8.0\BrqTestVms.dll
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\bin\Debug\net8.0\BrqTestVms.pdb
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\BrqTestVms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\BrqTestVms.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\BrqTestVms.AssemblyInfo.cs
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\BrqTestVms.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\BrqTestVms.dll
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\refint\BrqTestVms.dll
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\BrqTestVms.pdb
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\BrqTestVms.genruntimeconfig.cache
+C:\Users\vinic\source\repos\BrqTestVms\BrqTestVms\obj\Debug\net8.0\ref\BrqTestVms.dll
